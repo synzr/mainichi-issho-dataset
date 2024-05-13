@@ -1,2 +1,5 @@
 episodes/*.mp4
 episodes/*.m4a
+frames/*/*.jpg
+bin/*.exe
+bin/*.dll
